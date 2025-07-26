@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\emailnotificationsmtp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\emailnotificationsmtp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\emailnotificationsmtp\\service\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|solutionrelative:service\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\emailnotificationsmtp\\service\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|solutionrelative:service\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\emailnotificationsmtp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\emailnotificationsmtp\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|solutionrelative:service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\emailnotificationsmtp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D45513-B287-430F-A894-F29B44F1ED85}|EmailNotificationSMTP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T03:11:54.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:06:09.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:42:39.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Service\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\EmailService.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Service\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "Service\\Implementations\\EmailService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:42:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:38:41.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:37:38.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Service\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\UserService.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\EmailNotificationSMTP\\Service\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Service\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:32:49.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

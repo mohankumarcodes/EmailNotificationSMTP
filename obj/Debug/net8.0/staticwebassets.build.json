@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SfnPQQzfrOwsr4cvFR00eT5RafqNS9qxLAa/tvJSSec=",
+  "Source": "EmailNotificationSMTP",
+  "BasePath": "_content/EmailNotificationSMTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
